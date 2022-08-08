@@ -1,5 +1,10 @@
+---
 layout: page
-title: "About Me"
-permalink: /about/
+title: Coursework
+---
 
-Hi, this is me!
+Text for your page goes here.
+
++ Basket Weaving
++ Cooking
++ GitHub Class
